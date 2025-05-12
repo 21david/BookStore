@@ -12,7 +12,6 @@
 
         </properties>
         <!-- Right click bookStorePU in Persistence Window > New > Entity -->
-        <class>com.pluralsight.bookstore.model.Book</class>   <!-- This represents a Book, see Book.java -->
-
+        <class>com.pluralsight.bookstore.model.Book</class>
     </persistence-unit>
 </persistence>
