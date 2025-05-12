@@ -1,2 +1,2 @@
-# Java-Project
-This is a Java project I am building to learn Spring Boot and other related technologies.
+# BookStore
+This is a Java project I am building to learn Java EE and other related tools.
