@@ -37,6 +37,30 @@ public class Book {
 
     private Language language;
 
+    // Default constructor required by JPA
+    public Book() {
+    }
+
+    public Book(
+            String isbn,
+            String title,
+            Float unitCost,
+            Integer nbOfPages,
+            Language language,
+            Date publicationDate,
+            String imageUrl,
+            String description
+    ) {
+        this.title = title;
+        this.description = description;
+        this.unitCost = unitCost;
+        this.isbn = isbn;
+        this.publicationDate = publicationDate;
+        this.nbOfPages = nbOfPages;
+        this.imageUrl = imageUrl;
+        this.language = language;
+    }
+
     public Long getId() {
         return id;
     }
