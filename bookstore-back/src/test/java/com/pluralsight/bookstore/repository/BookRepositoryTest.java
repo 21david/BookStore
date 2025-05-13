@@ -16,11 +16,31 @@ import java.util.Date;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
-@RunWith(Arquillian.class)
+@RunWith(Arquillian.class)  // Integration tests, tested with 'mvn test'
 public class BookRepositoryTest {
 
     @Inject
     private BookRepository bookRepository;
+
+    @Test(expected = Exception.class)
+    public void findWithInvalidId() {
+        bookRepository.find(null);
+    }
+
+    @Test(expected = Exception.class) // Expecting an exception
+    public void createInvalidBook() {
+        Book book = new Book("isbn",
+                null,
+                12F,
+                123,
+                Language.ENGLISH,
+                new Date(),
+                "http://example.com/image",
+                "This is an example description of an awesome book.");
+        book = bookRepository.create(book);  // persist to database
+
+
+    }
 
     @Test
     public void create() throws Exception {
