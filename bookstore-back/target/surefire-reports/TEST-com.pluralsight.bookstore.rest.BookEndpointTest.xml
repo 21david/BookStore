@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.pluralsight.bookstore.repository.BookRepositoryTest" time="1.379" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.pluralsight.bookstore.rest.BookEndpointTest" time="0.623" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -62,7 +62,5 @@
     <property name="java.class.version" value="52.0"/>
     <property name="socksNonProxyHosts" value="netsparkmobile.com|*.netsparkmobile.com|canopy.us|*.canopy.us|rimon.net.il|*.rimon.net.il|fe80::/64|*.fe80::/64|10.0.0.0/8|*.10.0.0.0/8|192.168.0.0/16|*.192.168.0.0/16|172.16.0.0/12|*.172.16.0.0/12|127.0.0.0/8|*.127.0.0.0/8|quora.com|*.quora.com|capcutapi.com|*.capcutapi.com"/>
   </properties>
-  <testcase name="create" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.117"/>
-  <testcase name="createInvalidBook" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.024"/>
-  <testcase name="findWithInvalidId" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.038"/>
+  <testcase name="createBook" classname="com.pluralsight.bookstore.rest.BookEndpointTest" time="0.462"/>
 </testsuite>
