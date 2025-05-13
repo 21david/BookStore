@@ -1,7 +1,10 @@
 package com.pluralsight.bookstore.repository;
 
 import com.pluralsight.bookstore.model.Book;
+import com.pluralsight.bookstore.util.NumberGenerator;
+import com.pluralsight.bookstore.util.TextUtil;
 
+import javax.inject.Inject;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
@@ -18,12 +21,20 @@ public class BookRepository {
     @PersistenceContext(unitName = "bookStorePU")  // This is the persistence-unit in persistence.xml
     private EntityManager em;  // Used to access the database.
 
+    @Inject  // (CDI) Inject this class (bean)
+    private TextUtil textUtil;
+
+    @Inject  // CDI automatically sees the only implementation (IsbnGenerator) and injects that
+    private NumberGenerator generator;
+
     public Book find(@NotNull Long id) { // (R)ead, like get
         return em.find(Book.class, id);
     }
 
     @Transactional(REQUIRED)  // (JTA) Required because this is a write operation
     public Book create(@NotNull Book book) {  // (C)reate, like post
+        book.setTitle(textUtil.sanitize(book.getTitle()));
+        book.setIsbn(generator.generateNumber());
         em.persist(book);
         return book;
     }
