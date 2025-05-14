@@ -29,8 +29,8 @@ public class BookFormController extends HttpServlet {
     }
 
     @Override
+    // Triggered when the user clicks the "Create" button in the bookform.html page
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        // Create a new book object from the request parameters
         // Each parameter corresponds to the 'name' attribute in the input elements in the form
         Book book = new Book();
         book.setTitle(request.getParameter("title"));
@@ -39,14 +39,11 @@ public class BookFormController extends HttpServlet {
         book.setNbOfPages(Integer.parseInt(request.getParameter("nbOfPages")));
         book.setImageUrl(request.getParameter("imageUrl"));
         book.setLanguage(Language.valueOf(request.getParameter("language")));
-        
-        // For ISBN and Publication Date, let's set some defaults for now
         book.setIsbn(new IsbnGenerator().generateNumber());
-        book.setPublicationDate(new Date());
-
+        book.setPublicationDate(new Date()); // temporary
         bookRepository.create(book);
 
-        // Redirect to the book list page to see the new book
+        // Redirect back to the book list page
         response.sendRedirect(request.getContextPath() + "/");
     }
 }

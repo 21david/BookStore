@@ -11,6 +11,11 @@
             align-items: flex-start;
             padding-top: 27px;
         }
+
+        /* Remove the underline from the links. TODO: use classes instead. */
+        a {
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
@@ -39,7 +44,9 @@
             </div>
             <div class="col-md-10">
                 <div class="card-body">
-                    <h5 class="card-title" th:text="${book.title}">Book Title</h5>
+                    <a th:href="@{'/book-details/' + ${book.id}}">
+                        <h5 class="card-title" th:text="${book.title}">Book Title</h5>
+                    </a>
                     <p class="card-text" th:text="${book.description}">Book description...</p>
                 </div>
             </div>

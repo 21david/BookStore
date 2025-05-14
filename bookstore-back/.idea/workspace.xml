@@ -1264,6 +1264,7 @@
       <method />
     </configuration>
     <configuration default="false" name="wildfly" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 10.2.0.Final" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="$USER_HOME$/.sdkman/candidates/java/8.0.382-tem">
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="bookstore-back:war">
@@ -1362,7 +1363,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38200000" />
+    <option name="totallyTimeSpent" value="39284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="25" width="1792" height="1044" extended-state="0" />
