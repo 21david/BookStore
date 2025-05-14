@@ -27,6 +27,7 @@ public class ThymeLeafConfiguration implements ServletContextListener {
     private ITemplateResolver templateResolver(ServletContextEvent sce) {
         ServletContextTemplateResolver resolver = new ServletContextTemplateResolver(sce.getServletContext());
         resolver.setPrefix("/WEB-INF/templates/");
+        resolver.setSuffix(".html");
         resolver.setTemplateMode(TemplateMode.HTML);
         return resolver;
     }
