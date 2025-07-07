@@ -118,6 +118,17 @@ paths:
           description: "Invalid input. Id cannot be lower than 1"
         500:
           description: "Book not found"
+  /ping:
+    get:
+      operationId: "ping"
+      produces:
+      - "text/plain"
+      parameters: []
+      responses:
+        200:
+          description: "successful operation"
+          schema:
+            type: "string"
 definitions:
   Book:
     type: "object"

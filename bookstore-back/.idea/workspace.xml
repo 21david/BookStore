@@ -5,52 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42270547-5f71-48a9-ac6f-c404b0f57a42" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_1_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/web/BookController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/web/BookDetailsController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/web/BookFormController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/web/DeleteBookController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/web/TemplateEngineUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/web/ThymeLeafConfiguration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/bookdetails.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/bookform.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/booklist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/BookController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/BookDetailsController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/BookFormController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/DeleteBookController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/TemplateEngineUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/ThymeLeafConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/lib/javassist-3.20.0-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/lib/ognl-3.1.12.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/lib/thymeleaf-3.0.11.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/templates/bookdetails.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/templates/bookform.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/templates/booklist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/BookController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/BookDetailsController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/BookFormController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/DeleteBookController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/TemplateEngineUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/ThymeLeafConfiguration.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0.war" afterPath="$PROJECT_DIR$/target/bookstore-back-1.0.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/model/Book.class" afterPath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/model/Book.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/model/Language.class" afterPath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/model/Language.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/repository/BookRepository.class" afterPath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/repository/BookRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/rest/BookEndpoint.class" afterPath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/rest/BookEndpoint.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/rest/JAXRSConfiguration.class" afterPath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/rest/JAXRSConfiguration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/util/IsbnGenerator.class" afterPath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/util/IsbnGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/util/NumberGenerator.class" afterPath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/util/NumberGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/util/TextUtil.class" afterPath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/util/TextUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/BookController.class" afterPath="$PROJECT_DIR$/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/BookController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/model/Book.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/model/Book.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/model/Language.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/model/Language.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/repository/BookRepository.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/repository/BookRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/rest/BookEndpoint.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/rest/BookEndpoint.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/rest/JAXRSConfiguration.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/rest/JAXRSConfiguration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/util/IsbnGenerator.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/util/IsbnGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/util/NumberGenerator.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/util/NumberGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/util/TextUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/util/TextUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/BookController.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/BookController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/BookDetailsController.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/BookDetailsController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/BookFormController.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/BookFormController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/DeleteBookController.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/DeleteBookController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/TemplateEngineUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/TemplateEngineUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/ThymeLeafConfiguration.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/web/ThymeLeafConfiguration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bookstore/repository/BookRepositoryTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bookstore/repository/BookRepositoryTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bookstore/rest/BookEndpointTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bookstore/rest/BookEndpointTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/bookstore_back_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/bookstore_back_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookstore-back.iml" afterPath="$PROJECT_DIR$/bookstore-back.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/model/Book.java" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/model/Book.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/rest/BookEndpoint.java" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/rest/BookEndpoint.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/web/BookController.java" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/web/BookController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/pluralsight/bookstore/repository/BookRepositoryTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/pluralsight/bookstore/repository/BookRepositoryTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.pluralsight.bookstore.repository.BookRepositoryTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.pluralsight.bookstore.repository.BookRepositoryTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.pluralsight.bookstore.rest.BookEndpointTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.pluralsight.bookstore.rest.BookEndpointTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.pluralsight.bookstore.repository.BookRepositoryTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.pluralsight.bookstore.repository.BookRepositoryTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.pluralsight.bookstore.rest.BookEndpointTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.pluralsight.bookstore.rest.BookEndpointTest.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,7 +78,37 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="281">
                   <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-                  <folding />
+                  <folding>
+                    <marker date="1751928949164" expanded="true" signature="4242:4264" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="4297:9431" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="4315:9418" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="4336:4522" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="4543:4858" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="4734:4836" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="4959:7209" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="5169:6566" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="5202:6533" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="5238:6499" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="5955:6254" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="6595:6852" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="6627:6822" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="6706:6789" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="6883:7187" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="6916:7155" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="7230:8096" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="7456:8074" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="7488:8044" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="7608:7687" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="7727:8011" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="8117:9190" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="8333:9168" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="8365:9138" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="8493:8582" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="8622:9105" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="8763:9064" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="8806:9023" ph="..." />
+                    <marker date="1751928949164" expanded="true" signature="9212:9399" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -115,16 +140,6 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="304">
                   <caret line="36" column="57" lean-forward="false" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ThymeLeafConfiguration.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/web/ThymeLeafConfiguration.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
                   <folding />
                 </state>
               </provider>
@@ -1367,12 +1382,12 @@
       <workItem from="1751579243464" duration="1052000" />
       <workItem from="1751580761602" duration="258000" />
       <workItem from="1751581146045" duration="723000" />
-      <workItem from="1751695203630" duration="13084000" />
+      <workItem from="1751695203630" duration="13714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55959000" />
+    <option name="totallyTimeSpent" value="56589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1124" extended-state="6" />
@@ -1509,7 +1524,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="466">
           <caret line="126" column="10" lean-forward="false" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
-          <folding />
+          <folding>
+            <marker date="1751928949164" expanded="true" signature="4242:4264" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4297:9431" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4315:9418" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4336:4522" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4543:4858" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4734:4836" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4959:7209" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5169:6566" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5202:6533" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5238:6499" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5955:6254" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6595:6852" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6627:6822" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6706:6789" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6883:7187" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6916:7155" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7230:8096" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7456:8074" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7488:8044" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7608:7687" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7727:8011" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8117:9190" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8333:9168" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8365:9138" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8493:8582" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8622:9105" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8763:9064" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8806:9023" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="9212:9399" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1557,7 +1602,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
           <caret line="75" column="31" lean-forward="false" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
-          <folding />
+          <folding>
+            <marker date="1751928949164" expanded="true" signature="4242:4264" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4297:9431" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4315:9418" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4336:4522" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4543:4858" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4734:4836" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4959:7209" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5169:6566" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5202:6533" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5238:6499" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5955:6254" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6595:6852" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6627:6822" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6706:6789" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6883:7187" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6916:7155" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7230:8096" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7456:8074" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7488:8044" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7608:7687" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7727:8011" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8117:9190" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8333:9168" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8365:9138" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8493:8582" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8622:9105" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8763:9064" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8806:9023" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="9212:9399" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1704,9 +1779,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="35" column="41" lean-forward="false" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1792,7 +1865,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding />
+          <folding>
+            <marker date="1751928949164" expanded="true" signature="4242:4264" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4297:9431" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4315:9418" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4336:4522" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4543:4858" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4734:4836" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="4959:7209" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5169:6566" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5202:6533" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5238:6499" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="5955:6254" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6595:6852" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6627:6822" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6706:6789" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6883:7187" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="6916:7155" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7230:8096" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7456:8074" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7488:8044" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7608:7687" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="7727:8011" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8117:9190" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8333:9168" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8365:9138" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8493:8582" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8622:9105" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8763:9064" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="8806:9023" ph="..." />
+            <marker date="1751928949164" expanded="true" signature="9212:9399" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1811,18 +1914,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/swagger.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1074">
-          <caret line="135" column="12" lean-forward="false" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/model/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/swagger.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1074">
+          <caret line="135" column="12" lean-forward="false" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
           <folding />
         </state>
       </provider>

@@ -139,6 +139,20 @@
           }
         }
       }
+    },
+    "/ping" : {
+      "get" : {
+        "operationId" : "ping",
+        "produces" : [ "text/plain" ],
+        "responses" : {
+          "200" : {
+            "description" : "successful operation",
+            "schema" : {
+              "type" : "string"
+            }
+          }
+        }
+      }
     }
   },
   "definitions" : {
