@@ -18,6 +18,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <wildfly.arquillian.version>2.0.2.Final</wildfly.arquillian.version>
 
+        <version.swagger>1.5.13</version.swagger>
+        <version.swagger.plugin>3.1.8</version.swagger.plugin>
+        <version.swagger.hibernate>1.5.22</version.swagger.hibernate>
+        <version.download.plugin>1.4.1</version.download.plugin>
+        <version.resources.plugin>3.1.0</version.resources.plugin>
+
         <!-- unmanaged versions -->
         <junit.version>4.12</junit.version>
         <javaee.version>7.0</javaee.version>
@@ -43,6 +49,12 @@
             <artifactId>javaee-web-api</artifactId>
             <version>${javaee.version}</version>
             <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>io.swagger</groupId>
+            <artifactId>swagger-annotations</artifactId>
+            <version>${version.swagger}</version>
         </dependency>
 
         <!-- Unit test framework -->
@@ -124,6 +136,95 @@
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
             </plugin>
+
+            <!-- Swagger for documenting REST API and getting JSON contract-->
+            <plugin>
+                <groupId>com.github.kongchen</groupId>
+                <artifactId>swagger-maven-plugin</artifactId>
+                <version>${version.swagger.plugin}</version>
+                <configuration>
+                    <apiSources>
+                        <apiSource>
+                            <springmvc>false</springmvc>
+                            <locations>com.pluralsight.bookstore.rest</locations>
+                            <schemes>http,https</schemes>
+                            <host>localhost:8080</host>
+                            <basePath>/bookstore-back/api</basePath>
+                            <outputFormats>yaml,json</outputFormats>
+                            <info>
+                                <title>BookStore APIs</title>
+                                <version>1.0.0</version>
+                                <description>BookStore APIs exposed from a Java EE back-end to an Angular front-end</description>
+                                <contact>
+                                    <email>antonio.goncalves@gmail.com</email>
+                                    <name>Antonio Goncalves</name>
+                                    <url>https://app.pluralsight.com/library/search?q=Antonio+Goncalves</url>
+                                </contact>
+                            </info>
+                            <swaggerDirectory>${basedir}/src/main/webapp</swaggerDirectory>
+                            <attachSwaggerArtifact>true</attachSwaggerArtifact>
+                        </apiSource>
+                    </apiSources>
+                </configuration>
+                <executions>
+                    <execution>
+                        <phase>compile</phase>
+                        <goals>
+                            <goal>generate</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <dependencies>
+                    <dependency>
+                        <groupId>io.swagger</groupId>
+                        <artifactId>swagger-hibernate-validations</artifactId>
+                        <version>${version.swagger.hibernate}</version>
+                    </dependency>
+                </dependencies>
+            </plugin>
+            <plugin>
+                <groupId>com.googlecode.maven-download-plugin</groupId>
+                <artifactId>download-maven-plugin</artifactId>
+                <version>${version.download.plugin}</version>
+                <executions>
+                    <execution>
+                        <phase>site</phase>
+                        <id>swagger-ui</id>
+                        <goals>
+                            <goal>wget</goal>
+                        </goals>
+                        <configuration>
+                            <url>https://github.com/swagger-api/swagger-ui/archive/master.tar.gz</url>
+                            <unpack>true</unpack>
+                            <outputDirectory>${project.build.directory}</outputDirectory>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <version>${version.resources.plugin}</version>
+                <executions>
+                    <execution>
+                        <id>copy-resources</id>
+                        <phase>validate</phase>
+                        <goals>
+                            <goal>copy-resources</goal>
+                        </goals>
+                        <configuration>
+                            <outputDirectory>${basedir}/src/main/webapp/swagger-ui</outputDirectory>
+                            <resources>
+                                <resource>
+                                    <directory>${project.build.directory}/swagger-ui-master/dist</directory>
+                                    <filtering>true</filtering>
+                                </resource>
+                            </resources>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>

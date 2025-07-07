@@ -34,7 +34,7 @@ public class BookRepositoryTest {
     @Test(expected = Exception.class) // Expecting an exception
     public void createInvalidBook() {
         Book book = new Book("isbn",
-                null,
+                null,  // null title shouldn't be allowed
                 12F,
                 123,
                 Language.ENGLISH,

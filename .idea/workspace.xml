@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b7e4637-df5a-4662-9e60-43aba27ad815" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_8_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_8_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__io_undertow_undertow_core_1_3_15_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__ognl_ognl_3_1_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_api_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_impl_base_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_impl_base_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_spi_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_api_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_impl_base_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_spi_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_api_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_impl_base_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_spi_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_rest_client_api_1_0_0_Alpha3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_junit_arquillian_junit_container_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_junit_arquillian_junit_core_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_protocol_arquillian_protocol_jmx_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_protocol_arquillian_protocol_servlet_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_api_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_impl_base_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_spi_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_cdi_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_ejb_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_initialcontext_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_resource_1_1_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_invocation_jboss_invocation_1_4_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_jandex_2_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_jboss_dmr_1_3_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_jboss_vfs_3_2_11_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_logmanager_jboss_logmanager_2_0_3_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_1_4_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_river_1_4_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_modules_jboss_modules_1_5_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_msc_jboss_msc_1_2_6_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_remoting_jboss_remoting_4_0_18_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_remotingjmx_remoting_jmx_2_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_resteasy_resteasy_client_3_0_24_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_resteasy_resteasy_jackson2_provider_3_0_24_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_resteasy_resteasy_jaxrs_3_0_24_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_sasl_jboss_sasl_1_0_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_api_base_2_0_0_alpha_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_impl_base_2_0_0_alpha_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_spi_2_0_0_alpha_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_api_1_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_impl_base_1_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_spi_1_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_spec_javax_ws_rs_jboss_jaxrs_api_2_0_spec_1_0_1_Beta1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_staxmapper_1_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_stdio_jboss_stdio_1_0_2_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_threads_jboss_threads_2_2_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_xnio_xnio_api_3_3_4_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_jboss_xnio_xnio_nio_3_3_4_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_picketbox_picketbox_4_9_4_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_common_2_0_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_container_remote_2_0_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_protocol_jmx_2_0_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_testenricher_msc_2_0_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_common_wildfly_common_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_controller_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_controller_client_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_core_security_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_core_security_api_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_deployment_repository_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_domain_http_interface_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_domain_management_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_io_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_jmx_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_network_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_platform_mbean_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_process_controller_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_protocol_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_remoting_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_self_contained_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_server_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_core_wildfly_version_2_0_10_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_1_0_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/META-INF/persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/model/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/model/Language.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/repository/BookRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/rest/BookEndpoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/rest/JAXRSConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/util/IsbnGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/util/NumberGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/util/TextUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/BookController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/BookDetailsController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/BookFormController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/DeleteBookController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/TemplateEngineUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/com/pluralsight/bookstore/web/ThymeLeafConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/classes/import.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/activation-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/commons-codec-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/commons-io-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/httpclient-4.5.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/httpcore-4.4.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/javassist-3.20.0-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/jboss-annotations-api_1.2_spec-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/jboss-jaxrs-api_2.0_spec-1.0.1.Beta1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/jcip-annotations-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/ognl-3.1.12.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/resteasy-client-3.0.24.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/resteasy-jaxrs-3.0.24.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/thymeleaf-3.0.11.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/templates/bookdetails.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/templates/bookform.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/WEB-INF/templates/booklist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/model/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/model/Language.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/repository/BookRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/rest/BookEndpoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/rest/JAXRSConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/util/IsbnGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/util/NumberGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/util/TextUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/web/BookController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/web/BookDetailsController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/web/BookFormController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/web/DeleteBookController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/web/TemplateEngineUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bookstore-back/target/classes/com/pluralsight/bookstore/web/ThymeLeafConfiguration.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0.war" afterPath="$PROJECT_DIR$/bookstore-back/target/bookstore-back-1.0.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookstore-back/.idea/misc.xml" afterPath="$PROJECT_DIR$/bookstore-back/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookstore-back/.idea/workspace.xml" afterPath="$PROJECT_DIR$/bookstore-back/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookstore-back/bookstore-back.iml" afterPath="$PROJECT_DIR$/bookstore-back/bookstore-back.iml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="1175" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEECourse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEECourse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b7e4637-df5a-4662-9e60-43aba27ad815" name="Default" comment="" />
+      <created>1751577997569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751577997569</updated>
+      <workItem from="1751577998764" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1175" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

@@ -42,3 +42,4 @@ This project follows the [Pluralsight Java EE 7: Getting Started](https://app.pl
 - Integrate with external book APIs (like Google Books)
 - Abillity to "rent" books
 - Add links to Amazon or web page of the book
+- Draw ideas from [early Amazon](https://web.archive.org/web/20020601082038/http://www.amazon.com/exec/obidos/subst/home/redirect.html)
