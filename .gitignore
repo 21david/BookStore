@@ -1,2 +1,9 @@
 Other
 .DS_Store
+
+# Ignore all IntelliJ specific folders
+**/.idea/
+
+# Ignore all build output
+target/
+build/
