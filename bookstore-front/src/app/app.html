@@ -3,7 +3,7 @@
           aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
   </button>
-  <a class="navbar-brand" href="">{{title}}</a>
+  <a class="navbar-brand" href="">{{title}}</a>  <!-- this is called interpolation. title is found in the ts file of this component at app.ts -->
   <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
           <li class="nav-item">
@@ -18,7 +18,11 @@
 
 <div class="container">
   <div class="jumbotron">
-      Components will go there
+    <bs-book-form></bs-book-form>
+    <hr>
+    <bs-book-detail></bs-book-detail>
+    <hr>
+    <bs-book-list></bs-book-list>
   </div>
 </div>
 
