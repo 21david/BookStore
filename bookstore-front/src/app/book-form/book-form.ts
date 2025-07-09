@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
+import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'bs-book-form',
-  imports: [FormsModule],
+  imports: [FormsModule, RouterLink],
   templateUrl: './book-form.html',
   styles: ``
 })
