@@ -12,56 +12,37 @@
 
 import * as models from './models';
 
-/**
- * Book resource representation
- */
+// Book resource representation
 export class Book {
-    /**
-     * Identifier
-     */
+
+    // Identifier
     id?: number;
 
-    /**
-     * Title of the book
-     */
+    // Title of the book
     title?: string;
 
-    /**
-     * Summary describing the book
-     */
+    // Summary describing the book
     description?: string;
 
-    /**
-     * Unit cost
-     */
+    // Unit cost
     unitCost?: number;
 
-    /**
-     * ISBN number
-     */
+    // ISBN number
     isbn?: string;
 
-    /**
-     * Date in which the book has been published
-     */
+    // Date in which the book has been published
     publicationDate?: Date;
 
-    /**
-     * Number of pages
-     */
+    // Number of pages
     nbOfPages?: number;
 
-    /**
-     * URL of the image cover
-     */
+    // URL of the image cover
     imageUrl?: string;
 
-    /**
-     * Language in which the book has been written
-     */
+    // Language in which the book has been written
     language?: Book.LanguageEnum;
-
 }
+
 export namespace Book {
     export enum LanguageEnum {
         ENGLISH = <any> 'ENGLISH',
