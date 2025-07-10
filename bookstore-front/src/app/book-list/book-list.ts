@@ -23,26 +23,4 @@ export class BookList implements OnInit {
       // Note: I had to add the CorsFilter.java file to the rest folder in the backend to allow cross-origin 
       // requests from localhost:4200 since they were being blocked because localhost:4200 is a different origin.
     }
-
-    /* numBooks: number = 2;
-
-  books = [
-    {
-      id: "1",
-      title: 'The Great Gatsby',
-      description: 'A classic novel about the American Dream',
-      imageURL: 'https://images.penguinrandomhouse.com/cover/9780743273565',
-      author: 'F. Scott Fitzgerald',
-      price: 10.99
-    },
-    {
-      id: "2",
-      title: '1984',
-      description: 'A dystopian novel about a totalitarian society',
-      imageURL: 'https://images.penguinrandomhouse.com/cover/9780451524935',
-      author: 'George Orwell',
-      price: 12.99
-    }
-  ]; */
-
 }

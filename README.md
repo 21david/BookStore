@@ -20,19 +20,28 @@ This project follows the [PluralSight Java EE 7: Getting Started](https://app.pl
 
 
 ## Technologies / Concepts Used
+- **Java 8** (Temurin distribution)
+    - **SDKMAN** to manage java versions
 - **Java EE 7** (Servlets, JAX-RS, JPA, Hibernate, JTA, Bean Validation, CDI)
-- **WildFly** for the application server
-- **Thymeleaf** for server-side HTML rendering
-- **Angular** for richer client-side HTML rendering
-- **Bootstrap** for a polished UI
-- **SASS** for styling
-- **Maven** as the build tool
+- **WildFly 10.1.0.Final** for the application server
+- **Thymeleaf 3.0.11.RELEASE** for server-side HTML rendering
+- **Angular 20** for richer client-side HTML rendering
+    - **Angular CLI 20.0.5**
+- **Node.js 20.19.0**
+    - **NPM 10.8.2**
+- **Yarn 1.22.22** for dependency management
+- **Swagger CodeGen CLI 2.2.2** for generating TypeScript code from the Swagger (OpenAPI) REST contract
+- **TypeScript 5.8**
+- **Bootstrap 4.0.0-alpha.6** for a polished UI
+- **Maven 3.9.10** as the build tool
+- **H2 database**
+    - **JPQL**
 - **RESTful web services** (JAX-RS and Servlets)
 - **Dependency injection**
-- **H2 database**
-- **Unit and integration testing** (Arquillian, JUnit)
-- **IntelliJ 2017 IDE**
-- **Cursor IDE**
+- **Unit and integration testing** (Arquillian 1.1.13.Final, JUnit 4.13.2, ShrinkWrap for Java test deployment)
+- **IntelliJ 2017.1.6 IDE**
+- **Cursor IDE 1.2.2 (Universal)**
+- **Google Chrome Version 138.0.7204.93**
 
 ## Future Ideas
 - Add author domain and pages
