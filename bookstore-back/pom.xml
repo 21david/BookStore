@@ -144,7 +144,7 @@
                             <locations>com.pluralsight.bookstore.rest</locations>
                             <schemes>http,https</schemes>
                             <host>localhost:8080</host>
-                            <basePath>/bookstore-back/api</basePath>
+                            <basePath>/bookstore-back-1.0/api</basePath>
                             <outputFormats>yaml,json</outputFormats>
                             <info>
                                 <title>BookStore APIs</title>

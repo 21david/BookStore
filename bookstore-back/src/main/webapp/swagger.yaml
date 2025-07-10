@@ -9,7 +9,7 @@ info:
     url: "https://app.pluralsight.com/library/search?q=Antonio+Goncalves"
     email: "antonio.goncalves@gmail.com"
 host: "localhost:8080"
-basePath: "/bookstore-back/api"
+basePath: "/bookstore-back-1.0/api"
 tags:
 - name: "Book"
 schemes:
@@ -165,6 +165,7 @@ definitions:
       nbOfPages:
         type: "integer"
         format: "int32"
+        description: "Number of pages in the book"
       imageUrl:
         type: "string"
       language:

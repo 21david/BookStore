@@ -41,6 +41,7 @@ public class Book {
     private Date publicationDate;
 
     @Column(name = "nb_of_pages")
+    @ApiModelProperty("Number of pages in the book")
     private Integer nbOfPages;
 
     @Column(name = "image_url")
