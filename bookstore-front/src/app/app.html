@@ -1,17 +1,41 @@
 <nav class="navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse">
+  
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse"
           aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
   </button>
+
   <a class="navbar-brand" href="">{{title}}</a>  <!-- this is called interpolation. title is found in the ts file of this component at app.ts -->
+  
   <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
+
+          <!-- List button -->
           <li class="nav-item">
               <a class="nav-link" [routerLink]="['/book-list']">List</a>
           </li>
+
+          <!-- Add button -->
           <li class="nav-item">
               <a class="nav-link" [routerLink]="['/book-form']">Add</a>
           </li>
+
+      </ul>
+
+      <ul class="navbar-nav ml-auto">
+
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.github.com/21david/BookStore ">Github</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.linkedin.com/in/david-espinosa5">LinkedIn</a>
+        </li>
+
+        <!-- Link to backend page  -->
+        <li class="nav-item">
+          <a class="nav-link" href="http://localhost:8080/bookstore-back-1.0">Backend</a>
+        </li>
       </ul>
   </div>
 </nav>
@@ -21,4 +45,3 @@
     <router-outlet></router-outlet>
   </div>
 </div>
-

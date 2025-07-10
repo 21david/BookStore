@@ -23,7 +23,7 @@ import static javax.ws.rs.core.MediaType.TEXT_PLAIN;
 @Api("Book") // Swagger
 public class BookEndpoint {
 
-    @Inject
+    @Inject  // CDI
     private BookRepository bookRepository;
 
     @GET  // JAX-RS

@@ -19,10 +19,6 @@ export class BookForm {
   ngOnInit() { }
 
   create() {
-    // Create a copy of the book without the ID (since it's auto-generated)
-    // const bookToCreate = { ...this.book };
-    // delete bookToCreate.id;
-    // this.bookService.createBook(bookToCreate)
     this.bookService.createBook(this.book)
       .pipe(
         // When done, navigate back to the list of books through the router

@@ -17,7 +17,7 @@ import static javax.transaction.Transactional.TxType.SUPPORTS;
 
 @Transactional(SUPPORTS)  // (JTA) All read-only methods will only do a transaction if they are being called by another one
 public class BookRepository {
-
+    
     @PersistenceContext(unitName = "bookStorePU")  // This is the persistence-unit in persistence.xml
     private EntityManager em;  // Used to access the database.
 

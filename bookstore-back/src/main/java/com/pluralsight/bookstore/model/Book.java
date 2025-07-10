@@ -3,29 +3,34 @@ package com.pluralsight.bookstore.model;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 
-import javax.persistence.*;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Column;
+import javax.persistence.Id;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Past;
 import javax.validation.constraints.Size;
 import java.util.Date;
 
-@Entity
+@Entity  // JPA
 @ApiModel(description = "Book resource representation")  // Swagger
 public class Book {
-
-    @Id @GeneratedValue
-    @ApiModelProperty("Identifier") // Swagger
+    
+    @Id @GeneratedValue  // JPA
+    @ApiModelProperty("Identifier")  // Swagger
     private Long id;
 
     @Column(length = 200)
-    @NotNull @Size(min = 1, max = 200)
-    @ApiModelProperty("Title of the book") // Swagger
+    @NotNull @Size(min = 1, max = 200)  // Bean Validation
+    @ApiModelProperty("Title of the book")  // Swagger
     private String title;
 
     @Column(length = 10000)
     @NotNull @Size(min = 1, max = 10000)
-    @ApiModelProperty("Description of the book") // Swagger
+    @ApiModelProperty("Description of the book")  // Swagger
     private String description;
 
     @Column(name = "unit_cost")

@@ -39,7 +39,6 @@ export class BookApi {
 
     /**
      * Returns the number of books
-     * 
      */
     public countBooks(extraHttpRequestParams?: any): Observable<number> {
         return this.countBooksWithHttpInfo(extraHttpRequestParams)
@@ -56,7 +55,6 @@ export class BookApi {
 
     /**
      * Creates a book given a JSON Book representation
-     * 
      */
     public createBook(book?: models.Book, extraHttpRequestParams?: any): Observable<models.Book> {
         return this.createBookWithHttpInfo(book, extraHttpRequestParams)
